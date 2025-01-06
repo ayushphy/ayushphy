@@ -42,4 +42,5 @@ Physics enthusiast and science communicator pursuing B.Sc. in Physical Sciences 
 - 💼 LinkedIn: [ayushphy](https://www.linkedin.com/in/ayushphy)
 
 ---
-*"Making complex physics accessible to everyone through research and education"*
+*"Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.
+― Richard P. Feynman"*
