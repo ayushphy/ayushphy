@@ -11,9 +11,9 @@ Physics enthusiast and science communicator pursuing B.Sc. in Physical Sciences 
 
 ## 🌟 Professional Highlights
 ### 📺 Research at Ayushkaari
-- Lead scientific researcher for a channel with 280,000+ subscribers
+- Part of research team for a channel with 280,000+ subscribers
 - Transform complex scientific concepts into engaging educational content
-- Develop comprehensive research briefs on cutting-edge science topics
+- Develop comprehensive research briefs on cutting-edge science topics for general public
 
 ### 🚀 Founder of Ayushphy Cosmological
 - Created and manage a thriving physics and astronomy community
@@ -21,7 +21,7 @@ Physics enthusiast and science communicator pursuing B.Sc. in Physical Sciences 
 - Focus on making complex scientific concepts accessible to everyone
 
 ### ✍️ Content Writer at ZetaGravit
-- Author in-depth content on space science developments
+- Author in-depth content on space science developments and physics
 - Conduct and document interviews with leading scientists
 - Create engaging scientific narratives for public consumption
 
