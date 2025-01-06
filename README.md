@@ -10,7 +10,7 @@ Physics enthusiast and science communicator pursuing B.Sc. in Physical Sciences 
   - Presented research poster of it at Ashoka Student Astronomy Conference (ASAC)
 
 ## 🌟 Professional Highlights
-### 📺 Research at Ayushkaari
+### 📺 Research at Ayushkaari YouTube Channel 
 - Part of research team for a channel with 280,000+ subscribers
 - Transform complex scientific concepts into engaging educational content
 - Develop comprehensive research briefs on cutting-edge science topics for general public
