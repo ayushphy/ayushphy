@@ -4,7 +4,7 @@
 Physics enthusiast and science communicator pursuing B.Sc. in Physical Sciences at University of Delhi.
 
 ## 🔬 Research & Academic Work
-- ExResearch Intern at Miranda House, University of Delhi
+- Ex-Research Intern at Miranda House, University of Delhi
   - Specializing in cosmological parameter constraints using Bayesian Analysis and MCMC
   - Working with H(z) measurements and Cosmic Chronometer data
   - Presented research poster of it at Ashoka Student Astronomy Conference (ASAC)
